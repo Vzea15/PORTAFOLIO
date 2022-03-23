@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+}
+
+.fondo {
+    background-color: #ccd1d1;
+    height: 100vh;
+}
+
+.letra {
+    color: black;
+}
